@@ -63,6 +63,9 @@ local activeTotems = {}
 
 function frame.UPDATE_MOUSEOVER_UNIT(self, event)
 	local np = C_NamePlate.GetNamePlateForUnit("mouseover")
+
+	if np == nil then return end
+
 	local guid = UnitGUID("mouseover")
 	local npcID = GetNPCIDByGUID(guid)
 
