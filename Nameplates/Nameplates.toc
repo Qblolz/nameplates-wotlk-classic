@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Nameplates
+## Author: Nyll (sirus.su)
+## Notes: Nameplates
+## Version: 1.0
+
+Nameplates.lua
