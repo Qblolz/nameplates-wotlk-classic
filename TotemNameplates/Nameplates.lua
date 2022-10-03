@@ -19,14 +19,14 @@ end
 -- addTotem(2630,true, "DICK", true, false, 25142) 	-- test - shattrat city
 addTotem(2484,false, nil, false, false, 2630) 	-- Earthbind
 addTotem(54968,false, nil, false, false, 5924) 	-- Cleansing
-addTotem(5925, false, nil, true, false, 5925) 	-- Grounding
-addTotem(3968, false, nil, false, false, 3968) 	-- Sentry
+addTotem(8177, false, nil, true, false, 5925) 	-- Grounding
+addTotem(6495, false, nil, false, false, 3968) 	-- Sentry
 addTotem(5913, false, nil, true, false, 5913) 	-- Tremor
 addTotem(8512, false, nil, false, false, 6112) 	-- Windfury Totem
-addTotem(15430, false, nil, false, false, 15430) 	-- Earth Elemental Totem
-addTotem(15439, false, nil, false, false, 15439) 	-- Fire Elemental Totem
-addTotem(15447, false, nil, false, false, 15447) 	-- Wrath of Air Totem
-addTotem(10467, false, nil, true, false, 10467) 	-- Mana Tide Totem
+addTotem(2062, false, nil, false, false, 15430) 	-- Earth Elemental Totem
+addTotem(2894, false, nil, false, false, 15439) 	-- Fire Elemental Totem
+addTotem(3738, false, nil, false, false, 15447) 	-- Wrath of Air Totem
+addTotem(16190, false, nil, true, false, 10467) 	-- Mana Tide Totem
 addTotem(30706, false, nil, false, false, 17539, 30652, 30653, 30654) 	-- Totem of Wrath
 addTotem(8181, false,  nil, false, false,5926, 7412, 7413, 15486, 31171, 31172) -- Frost Resistance Totem
 addTotem(8184, false, nil, false, false, 5927, 7424, 7425, 15487, 31169, 31170) -- Fire Resistance Totem
