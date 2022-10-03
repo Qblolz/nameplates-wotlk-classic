@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Totem Nameplates
+## Author: Qb
+## Version: 1.0
+## SavedVariables: TotemNameplatesDB
+
+Nameplates.lua
